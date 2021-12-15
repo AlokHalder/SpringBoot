@@ -4,7 +4,7 @@ You can checkout the live version of the application at https://spring-ws-chat.h
 
 ![App Screenshot](screenshot.png)
 
-## Requirements
+## Requirement
 
 1. Java - 11
 
